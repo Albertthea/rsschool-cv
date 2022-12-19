@@ -1,0 +1,57 @@
+* {
+    margin: 0;
+    padding: 0;
+    font-size: 30px;
+}
+
+.view {
+    background-color: black;
+}
+
+.main-heading {
+    color: bisque;
+}
+
+.heading {
+    padding-top: 1.3em;
+    color: bisque;
+}
+
+#photo {
+    text-align: center;
+    width: 7em;
+    height: 7em;
+    border-radius: 70%;
+    display: block;
+    margin: 10px auto;
+}
+
+.lists {
+    color: blanchedalmond;
+}
+
+.lists-items {
+    font-size: .5em;
+}
+
+.reference {
+    color: blanchedalmond;
+    text-align: right;
+}
+
+footer {
+    margin-top: 20%;
+}
+
+#logo {
+    width: 5em;
+    height: 5em;
+}
+
+a {
+    color:deeppink;
+}
+
+xmp {
+    color:deeppink;
+}
